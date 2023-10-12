@@ -1,5 +1,5 @@
 # Second seminar
-
+02.10.2023
 ## Создание веток 
 * git branch branch_name - создание ветки   
 ## Слияние веток
